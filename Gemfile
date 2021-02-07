@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.0"
+gem "jekyll", "~> 3.5"
 gem "jekyll-feed", "~> 0.9"
 gem "jekyll-seo-tag", git: "https://github.com/jekyll/jekyll-seo-tag.git"
 gem 'jekyll-sitemap', "~> 1.4"
