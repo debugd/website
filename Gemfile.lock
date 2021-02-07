@@ -86,7 +86,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
+  jekyll (~> 3.5)
   jekyll-feed (~> 0.9)
   jekyll-minifier (~> 0.1)
   jekyll-postcss
