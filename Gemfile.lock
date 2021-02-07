@@ -3,7 +3,7 @@ GIT
   revision: 933b914ab27601ca29615489f0343c4417bb146a
   specs:
     jekyll-seo-tag (2.6.1)
-      jekyll (4.2.0)
+      jekyll (>= 3.3, < 5.0)
 
 GEM
   remote: https://rubygems.org/
@@ -86,7 +86,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.5)
+  jekyll (~> 4.2.0)
   jekyll-feed (~> 0.9)
   jekyll-minifier (~> 0.1)
   jekyll-postcss
