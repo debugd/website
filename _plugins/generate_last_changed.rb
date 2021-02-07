@@ -5,4 +5,4 @@ module PlausibleSite
       File.write('changes.txt', changes.date.strftime("%F"))
     end
   end
-end
+end 
